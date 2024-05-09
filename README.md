@@ -41,7 +41,7 @@ create table Mahasiswa (
     );
 ```
 
-![alt text](Screenshot/1.png)
+![alt text](screenshot/1.png)
 
 
 **Tampilkan hasil table :**
