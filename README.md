@@ -284,4 +284,4 @@ Dalam DML, pengguna dapat menggunakan perintah SQL (Structured Query Language) u
 
 <img src=https://pngimg.com/uploads/google_drive/google_drive_PNG9.png width="110px" >
 
-- [Link Laporan Praktikum](https://docs.google.com/document/d/11nxeeY7RrJtV7LY4_I90JiMloq9qy-ov/edit?usp=drivesdk&rtpof=true&sd=true)
+- [Link Laporan Praktikum](https://drive.google.com/drive/folders/1-fWvC-k9USrAOWr7MDc8UV8nmOXRLj7R)
